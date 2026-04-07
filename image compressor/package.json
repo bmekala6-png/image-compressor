@@ -1,0 +1,12 @@
+{
+  "name": "optipress",
+  "version": "1.0.0",
+  "description": "Ultra-fast, private image compressor.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx static-server"
+  },
+  "keywords": ["image", "compressor", "optimizer"],
+  "author": "Antigravity",
+  "license": "MIT"
+}
